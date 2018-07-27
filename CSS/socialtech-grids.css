@@ -1,0 +1,139 @@
+p{font-family:"segoe ui";}
+h1{font-family:"consolas";}
+.art
+{
+width:100%;
+height:200px;
+display:inline-block;	
+}
+.row
+{
+max-width: 75%;
+margin-left: auto;
+margin-right: auto;
+display:block;
+position:relative;
+}
+.column,.columns
+{
+box-sizing:border-box;
+margin-left: auto;
+margin-right: auto;
+padding-left: 0.9375rem;
+padding-right: 0.9375rem;
+display:inline-block;
+}
+.callout
+{
+padding: 1.25rem;
+border: 1px solid rgba(10, 10, 10, 0.25);
+border-radius: 4px;
+position:relative;
+}
+.center
+{
+margin-left:auto;
+}
+.right
+{
+position:relative;
+float:right;
+}
+.left
+{
+position:relative;
+float:left;
+}
+.full
+{
+width:100%;
+height:inherit;
+}
+.DDR
+{
+margin-left:-8px;
+top:0;
+z-index:1;
+height:45px;
+box-shadow: 2px 2px 4px #A9A9A9;
+position:fixed;
+}
+.clmlrg
+{
+width:93.5%;
+height:inherit;
+}
+.clm10
+{
+width:85%;
+height:inherit;
+}
+.clm9
+{
+width:76.5%;
+height:inherit;
+}
+.clm8
+{
+width:68%;
+height:inherit;
+}
+.clm7
+{
+width:59.5%;
+height:inherit;
+}
+.clmhalf
+{
+width:51%;
+height:inherit;
+}
+.clm5
+{
+width:42.5%;
+height:inherit;
+}
+.clm4
+{
+width:32%;
+height:inherit;
+}
+.clmquarter
+{
+width:25.5%;
+height:inherit;
+}
+.clm2
+{
+width:17%;	
+height:inherit;
+}
+.clmsmall
+{
+width:8.5%;	
+height:inherit;
+}
+.icon
+{
+width:35px;
+height:35px;
+border-radius:45px;
+font-family:"knul","calibri";
+font-size:26px;
+position:relative;
+text-align:center;
+margin:5px;
+color:#FFF;
+box-shadow:#FFF 0px 0px 1.5px 1px;
+}
+.icon:hover
+{
+transition:600ms;
+color:#FFF;
+transform:scale(1.05);
+}
+.transparent
+{
+background:inherit;
+color:#FFF;
+}
